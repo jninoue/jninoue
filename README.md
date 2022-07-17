@@ -1,5 +1,5 @@
-- 👋 Olá, sou @jninoue
-- 🌱 Atuamente estou estudando python com Django
+- 👋 Olá, meu nome é Jefferson Nasu Inoue
+- 🌱 Atuamente estou estudando Java
 - 💞️ Procuro algum projeto onde possa aperfeiçoar os meus estudos
 - 📫 Segue meu e-mail, jninoue@yahoo.com.br
 
